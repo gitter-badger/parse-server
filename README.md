@@ -1,5 +1,7 @@
 ## parse-server
 
+[![Join the chat at https://gitter.im/wotcity/parse-server](https://badges.gitter.im/wotcity/parse-server.svg)](https://gitter.im/wotcity/parse-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Parse.com API compatible router package for Express
 
 Read the announcement blog post here:  http://blog.parse.com/announcements/introducing-parse-server-and-the-database-migration-tool/
